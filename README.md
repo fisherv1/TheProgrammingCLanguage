@@ -3,7 +3,7 @@ TheProgrammingCLanguage
 
 The Programming C language
 
-This is for all the exercises I did for <The Programming C Language>.
+This is for all the exercises I did for The Programming C Language.
 
 Chapter One:
 
