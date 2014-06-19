@@ -9,4 +9,6 @@ Chapter One:
 
 1.13 Write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging.
 
-1.14 Write a program to print a histogram of the fequencies of different characters in its input.
+1.14 Write a program to print a histogram of the fequencies of different  characters in its input.
+
+1.15 Rewrite the temperature conversion program of Section 1.2 to use a function for conversion
